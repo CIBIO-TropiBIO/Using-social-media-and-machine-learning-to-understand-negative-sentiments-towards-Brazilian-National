@@ -1,0 +1,13 @@
+name: env_sentiment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy=1.23.5
+  - pandas=1.5.2
+  - matplotlib=3.6.2
+  - jupyter
+  - pip:
+    - requests==2.28.2
+    - pageviewapi==0.4.0
