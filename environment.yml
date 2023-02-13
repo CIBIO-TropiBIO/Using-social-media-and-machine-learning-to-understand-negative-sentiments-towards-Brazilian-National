@@ -11,3 +11,5 @@ dependencies:
   - pip:
     - requests==2.28.2
     - pageviewapi==0.4.0
+    - datasets==2.9.0
+    - transformers==4.26.1
